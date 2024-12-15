@@ -1,3 +1,9 @@
 site_name: My Docs
 theme:
   name: material
+  palette:
+      scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
